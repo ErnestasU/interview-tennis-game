@@ -1,0 +1,15 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# JAVA
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
